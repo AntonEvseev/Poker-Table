@@ -1,0 +1,149 @@
+*{
+margin: 0;
+padding: 0;
+}
+.main {
+position: absolute;
+top: 150px;
+left: 300px;
+width: 439px;
+height: 328px;
+background-image: url(img/bg.png);
+}
+.table{
+position: absolute;
+height: 118px;
+width: 244px;
+background-image: url(img/tt.png);
+border-radius: 52px;
+top: 104px;
+left: 114px;
+}
+.depositman{
+position: absolute;
+left: 206px;
+top: 41px;
+}
+.cloth
+{
+position: absolute;
+background: radial-gradient(98% 98%, #04F409, #060606);
+height: 108px;
+width: 232px;
+border-radius: 47px;
+left: 6px;
+top: 5px;
+}
+.card{
+position: absolute;
+width: 28px;
+height: 43px;
+background: white;
+left: 38px;
+top: 32px;
+overflow: hidden; 
+}
+.card2{
+position: absolute;
+width: 28px;
+height: 43px;
+background: white;
+left: 69px;
+top: 32px;
+overflow: hidden; 
+}
+.card3{
+position: absolute;
+width: 28px;
+height: 43px;
+background: white;
+left: 100px;
+top: 32px;
+overflow: hidden; 
+}
+.card4{
+position: absolute;
+width: 28px;
+height: 43px;
+background: white;
+left: 131px;
+top: 32px;
+overflow: hidden; 
+}
+.card5{
+position: absolute;
+width: 28px;
+height: 43px;
+background: white;
+left: 162px;
+top: 32px;
+overflow: hidden; 
+}
+.black{
+position: absolute;
+color: #171717;
+font-size: 13px;
+font-weight: bold;
+top: 5px;
+left: 5px;
+}
+.red{
+position: absolute;
+color: #B32621; 
+font-size: 13px;
+font-weight: bold;
+top: 5px;
+left: 5px;
+}
+.kresti_small{
+width: 9px;
+height: 10px;
+position: absolute;
+top: 19px;
+left: 3px;
+}
+.kresti_big{
+width: 20px;
+height: 19px;
+position: absolute;
+top: 11px;
+left: 14px;
+}
+.chervi_small{
+width: 9px;
+height: 10px;
+position: absolute;
+top: 19px;
+left: 3px;
+}
+.chervi_big{
+width: 20px;
+height: 19px;
+position: absolute;
+top: 11px;
+left: 14px;
+}
+.name_table{
+color: #B1D4B2;
+font-weight: bold;
+position: absolute;
+top: 9px;
+left: 87px;
+}
+.flashroyal
+{
+width: 105px;
+height: 73px;
+position: absolute;
+left: 7px;
+top: 20px;
+}
+.bg_flash{
+width:107px;
+height: 75px;
+position: absolute;
+left: 60px;
+bottom: -188px;
+z-index: -1;
+}
+#layer1 { z-index: 3; }
