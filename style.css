@@ -123,6 +123,13 @@ position: absolute;
 top: 11px;
 left: 14px;
 }
+.chervi_btm{
+width: 20px;
+height: 19px;
+position: absolute;
+top: 37px;
+left: 14px;
+}
 .name_table{
 color: #B1D4B2;
 font-weight: bold;
